@@ -1,8 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class ControlFlow {
     public static void main(String[] args) {
 
